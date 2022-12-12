@@ -4,10 +4,9 @@ Olá, Meu nome é Pablo Henrique
 - 🌱 Eu atualmente estou estudando React
 - ⚡ Sobre mim:  Sou um jovem de 18 anos, apaixonado em aprender e em me desafiar cada dia mais, a procura de uma oportunidade no mercado tech.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/PABLOHLS3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PABLOHLS3&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PABLOHLS3&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=PABLOHLS3&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
