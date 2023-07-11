@@ -1,6 +1,6 @@
 Olá, Meu nome é Pablo Henrique
 
-- 🔭 Estudante Front-End
+- 🔭 Desenvolvedor Front-End
 - 🌱 Eu atualmente estou estudando React
 - ⚡ Sobre mim:  Sou um jovem de 18 anos, apaixonado em aprender e em me desafiar cada dia mais, a procura de uma oportunidade no mercado tech.
 
